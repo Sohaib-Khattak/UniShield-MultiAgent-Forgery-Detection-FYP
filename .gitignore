@@ -1,0 +1,15 @@
+# Large Data Containers & Dataset Binaries (Exceed GitHub 100MB limit)
+*.h5
+*.hdf5
+*.tar
+*.tar.gz
+*.zip
+*.lmdb
+
+# Temporary directories & caches
+report_charts_tmp/
+.user_uploaded/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+scratch/
